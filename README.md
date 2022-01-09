@@ -1,4 +1,4 @@
-#https://blackcat-tinkerngineers.github.io/cop-or-not-dashboard/
+https://cop-or-not-dashboard.herokuapp.com/rd/
 
 # Cop or Not
 
