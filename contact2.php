@@ -17,21 +17,21 @@
         <nav>
           <ul class="navbar">
             <li>
-              <a href="./index2.html">Home</a>
+              <a href="./index.php">Home</a>
             </li>
             <li>
-              <a href="./swipe2.html">Login</a>
+              <a href="./login.php">Login</a>
             </li>
             <li>
-              <a href="./login.html">Swipe Marketplace</a>
+              <a href="./swipe2.php">Swipe Marketplace</a>
             </li>
             <li>
-              <a href="./dashboard.html">Dashboard</a>
+              <a href="./dashboard.php">Dashboard</a>
             </li>
            
             <!-- current class styling -->
             <li class="current">
-              <a href="./contact2.html">Contact</a>
+              <a href="./contact2.php">Contact</a>
             </li>
           </ul>
         </nav>

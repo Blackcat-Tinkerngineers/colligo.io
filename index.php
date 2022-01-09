@@ -16,7 +16,7 @@
       <img src="./assets/images/logo-2.svg">
       <h1>{{title}}</h1>
       <p>{{body}}</p>
-      <a href="./html/swipe2.html">Swipe Dashboard</a>
+      <a href="./swipe2.php">Swipe Dashboard</a>
     </script>
   </head>
 
@@ -28,19 +28,19 @@
           <ul class="navbar">
             <!-- current class styling -->
             <li class="current">
-              <a href="./index2.html">Home</a>
+              <a href="./index.php">Home</a>
             </li>
             <li>
-              <a href="./html/login.html">Login</a>
+              <a href="./login.php">Login</a>
             </li>
             <li>
-              <a href="./html/dashboard.html">Dashboard</a>
+              <a href="./dashboard.php">Dashboard</a>
             </li>
             <li>
-              <a href="./html/swipe2.html">Swipe</a>
+              <a href="./swipe2.php">Swipe Marketplace</a>
             </li>
             <li>
-              <a href="./html/contact2.html">Contact</a>
+              <a href="./contact2.php">Contact</a>
             </li>
           </ul>
         </nav>

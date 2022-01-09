@@ -28,25 +28,25 @@
             </a>
           </li>
           <li>
-            <a class="nav-link" href="./index2.html">
+            <a class="nav-link" href="./login.php">
               <img src="./assets/images/home.svg" alt="home">
               Home
               </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./swipe2.html">
+            <a class="nav-link" href="./swipe2.php">
               <img src="./assets/images/globe.svg" alt="marketplace">
               Swipe Marketplace
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./dashboard.html">
+            <a class="nav-link" href="./dashboard.php">
               <img src="./assets/images/activity.svg" alt="dashboard">
               Dashboard
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./contact2.html">
+            <a class="nav-link" href="./contact2.php">
               <img src="./assets/images/briefcase.svg" alt="contact">
               Contact Us
             </a>
