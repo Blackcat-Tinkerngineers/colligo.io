@@ -19,7 +19,9 @@
 
 <div class="container-fluid">
   <div class="row">
-    <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+  <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 hidden-sm hidden-xs left-sidebar">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+    <nav class="d-none d-md-block bg-light sidebar">
       <div class="sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
@@ -34,7 +36,7 @@
               </a>
           </li>
           <a class="nav-link" href="./login.php">
-              <img src="./assets/images/activity.svg" alt="login">
+              <img src="./assets/images/login-password-svgrepo-com.svg" alt="login">
               Login
               </a>
           </li>
