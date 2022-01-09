@@ -16,7 +16,7 @@
       <img src="./assets/images/logo-2.svg">
       <h1>{{title}}</h1>
       <p>{{body}}</p>
-      <a href="./swipe2.php">Swipe Dashboard</a>
+      <a href="./swipe2.php">Click here to being swipping</a>
     </script>
   </head>
 
@@ -37,7 +37,7 @@
               <a href="./dashboard.php">Dashboard</a>
             </li>
             <li>
-              <a href="./swipe2.php">Click to begin swiping</a>
+              <a href="./swipe2.php">Swipe Marketplace</a>
             </li>
             <li>
               <a href="./contact2.php">Contact us</a>
