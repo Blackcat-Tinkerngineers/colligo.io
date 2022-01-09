@@ -14,17 +14,8 @@
 </head>
 
 
-<header class="sticky-top">
-    <main role="main" class="col-sm-3 ml-sm-auto col-lg-10 pt-3 px-4">
-        <div class="d-flex align-items-center pb-2 mb-3 border-bottom">
-          <h1 class="text-muted">Dashboard</h1>
-        </div>
-        </header>
-
-
-
-<body>
 <!-- this is a test.  test. -->
+<header class="sticky-top">
 <div class="container-fluid">
   <div class="row">
     <nav class="col-md-2 d-none d-xl-block bg-light sidebar">
@@ -69,6 +60,13 @@
     </nav>
 
 
+
+    <body>
+      <main role="main" class="col-sm-3 ml-sm-auto col-lg-10 pt-3 px-4">
+        <div class="d-flex align-items-center pb-2 mb-3 border-bottom">
+          <h1 class="text-muted">Dashboard</h1>
+        </div>
+
         <div class="grid-container">
           <div class="item level-2">
             <img src="https://publish.one37pm.net/wp-content/uploads/2021/02/punks.png?fit=600%2C600">
@@ -108,5 +106,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="./assets/js/script.js"></script>
 
-
+</header>
 </html>
