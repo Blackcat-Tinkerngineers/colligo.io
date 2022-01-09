@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.min.css">
   <link rel="bootstrapstylesheet" href="./assets/css/profile.css" />
-  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/style2.css">
   <link rel="stylesheet" href="./assets/css/image-grid.css">
   <title>Cop or Not</title>
 </head>
@@ -28,21 +28,26 @@
             </a>
           </li>
           <li>
-            <a class="nav-link" href="./login.php">
+            <a class="nav-link" href="./index.php">
               <img src="./assets/images/home.svg" alt="home">
               Home
               </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="./swipe2.php">
-              <img src="./assets/images/globe.svg" alt="marketplace">
-              Swipe Marketplace
-            </a>
+          <a class="nav-link" href="./login.php">
+              <img src="./assets/images/activity.svg" alt="login">
+              Login
+              </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="./dashboard.php">
               <img src="./assets/images/activity.svg" alt="dashboard">
               Dashboard
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="./swipe2.php">
+              <img src="./assets/images/globe.svg" alt="marketplace">
+              Swipe Marketplace
             </a>
           </li>
           <li class="nav-item">

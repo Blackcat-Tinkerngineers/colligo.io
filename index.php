@@ -37,10 +37,10 @@
               <a href="./dashboard.php">Dashboard</a>
             </li>
             <li>
-              <a href="./swipe2.php">Swipe Marketplace</a>
+              <a href="./swipe2.php">Click to begin swiping</a>
             </li>
             <li>
-              <a href="./contact2.php">Contact</a>
+              <a href="./contact2.php">Contact us</a>
             </li>
           </ul>
         </nav>

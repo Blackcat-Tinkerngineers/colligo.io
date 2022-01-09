@@ -23,12 +23,11 @@
               <a href="./login.php">Login</a>
             </li>
             <li>
-              <a href="./swipe2.php">Swipe Marketplace</a>
-            </li>
-            <li>
               <a href="./dashboard.php">Dashboard</a>
             </li>
-           
+            <li>
+              <a href="./swipe2.php">Swipe Marketplace</a>
+            </li>
             <!-- current class styling -->
             <li class="current">
               <a href="./contact2.php">Contact</a>
