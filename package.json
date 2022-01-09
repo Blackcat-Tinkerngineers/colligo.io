@@ -4,32 +4,43 @@
   "description": "Account & Swipe based social media app for NFT's",
   "main": "login.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages-deploy",
-    "clean-source": "rimraf README.md src webroot package.json"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blackcat-Tinkerngineers/cop-or-not"
+    "url": "git+https://github.com/Blackcat-Tinkerngineers/cop-or-not.git"
   },
   "author": "Connor, Nate, Chelsie, Carter",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.1",
+    "bootstrap": "^5.1.3",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.6",
+    "deploy": "^1.0.3",
     "express": "^4.17.2",
     "express-handlebars": "^6.0.2",
     "express-messages": "^1.0.1",
     "express-session": "^1.17.2",
     "express-validator": "^6.14.0",
+    "gh-pages": "^3.2.3",
     "handlebars": "^4.7.7",
-    "mongodb": "^4.2.2",
-    "mongoose": "^6.1.3",
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7",
+    "jest-cli": "^27.4.7",
+    "lodash": "^4.17.21",
+    "mathjs": "^10.0.2",
+    "matrix.node": "^0.1.14",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.5",
+    "nodemon": "^2.0.15",
     "passport": "^0.5.2",
     "passport-http": "^0.3.0",
-    "passport-local": "^1.0.0"
+    "passport-local": "^1.0.0",
+    "php": "^1.0.2",
+    "plug-n-play": "^3.1.3",
+    "react": "^17.0.2"
   },
   "bugs": {
     "url": "https://github.com/NateBatchelder/projectTwo/issues"
