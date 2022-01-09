@@ -16,7 +16,7 @@
       <img src="./assets/images/logo-2.svg">
       <h1>{{title}}</h1>
       <p>{{body}}</p>
-      <a href="./swipe2.php">Click here to being swipping</a>
+      <a href="./swipe2.php">Click to begin</a>
     </script>
   </head>
 

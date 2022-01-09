@@ -47,7 +47,7 @@
 
   <header>
     <div class="container">
-    <p class="d-flex text-primary">Click the NFT to save to dashboard and track metrics</p>
+    <p class="d-flex text-light">Click the NFT to save to dashboard and track metrics</p>
     </div>
     </header>
 

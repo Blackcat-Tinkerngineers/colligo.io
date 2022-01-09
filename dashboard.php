@@ -16,10 +16,9 @@
 
 <!-- this is a test.  test. -->
 <header class="sticky-top">
-
 <div class="container-fluid">
   <div class="row">
-    <nav class="d-none d-xl-block bg-light sidebar">
+    <nav class="col-md-2 d-none d-lg-block bg-light sidebar">
       <div class="sidebar-sticky">
         <ul class="nav flex-column">
           <li class="nav-item">
