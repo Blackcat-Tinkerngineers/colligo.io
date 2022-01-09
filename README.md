@@ -7,6 +7,12 @@ https://cop-or-not-dashboard.herokuapp.com/rd/
 ## Description 
 The Crypto market has gained traction and expanded in recent years, with FOMO investors throwing money at coins and NFTS in hopes to make it big. Early projects saw massive gains for investors as market caps grew and the market diversified. Now, there are many niches within the cryto space to bet on the next big thing. Almost none of these projects have real world application yet and many have not even made a dollar since inception. The cryto world runs on the sentiment and emotion of inventors. Thats where "Cop or Not" comes in, the Tinder for NFTS. Users can swipe through new projects and rate them as "Cop" for projects they see gaining popularity, or "Not" for junk they don't see going anywhere. Through user rating, the most trending NFTS will be displayed on the app for potential investors to make better decisions of where to invest their money. 
 
+
+![This is an image] (./assets/images/screen-shot-1.png)
+![This is an image] (./assets/images/screen-shot-2.png)
+![This is an image] (./assets/images/screen-shot-3.png)
+![This is an image] (./assets/images/screen-shot-4.png)
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
