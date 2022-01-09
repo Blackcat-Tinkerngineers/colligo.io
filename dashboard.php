@@ -55,6 +55,30 @@
               Contact Us
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
