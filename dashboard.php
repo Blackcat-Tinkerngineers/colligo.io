@@ -14,8 +14,17 @@
 </head>
 
 
-<!-- this is a test.  test. -->
 <header class="sticky-top">
+    <main role="main" class="col-sm-3 ml-sm-auto col-lg-10 pt-3 px-4">
+        <div class="d-flex align-items-center pb-2 mb-3 border-bottom">
+          <h1 class="text-muted">Dashboard</h1>
+        </div>
+        </header>
+
+
+
+<body>
+<!-- this is a test.  test. -->
 <div class="container-fluid">
   <div class="row">
     <nav class="col-md-2 d-none d-xl-block bg-light sidebar">
@@ -55,41 +64,10 @@
               Contact Us
             </a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">
-            </a>
-          </li>
         </ul>
       </div>
     </nav>
 
-
-
-    <body>
-      <main role="main" class="col-sm-3 ml-sm-auto col-lg-10 pt-3 px-4">
-        <div class="d-flex align-items-center pb-2 mb-3 border-bottom">
-          <h1 class="text-muted">Dashboard</h1>
-        </div>
 
         <div class="grid-container">
           <div class="item level-2">
@@ -130,5 +108,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script src="./assets/js/script.js"></script>
 
-</header>
+
 </html>
