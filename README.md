@@ -1,4 +1,4 @@
-#https://blackcat-tinkerngineers.github.io/cop-or-not/
+#https://blackcat-tinkerngineers.github.io/cop-or-not-dashboard/
 
 # Cop or Not
 
