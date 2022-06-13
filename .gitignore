@@ -3,9 +3,9 @@ profile.html
 aboutus.html
 
 # php/laravel
-/vendor
-colligo-app
-laravel
+/vendor/
+/colligo-app/
+/laravel/
 
 /.idea
 
