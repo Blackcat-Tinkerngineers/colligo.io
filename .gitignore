@@ -2,12 +2,6 @@ index.html
 profile.html
 aboutus.html
 
-# php/laravel
-vendor/
-colligo-app/
-laravel/
-
-/ .idea/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 

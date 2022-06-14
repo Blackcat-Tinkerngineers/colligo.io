@@ -1,25 +1,61 @@
 {
-  "name": "the-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "projecttwo",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "start": "next start, BROWSER=none",
+    "build": "next build",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackcat-Tinkerngineers/cop-or-not.git"
+  },
+  "author": "",
+  "license": "MIT",
   "dependencies": {
     "@chakra-ui/react": "^2.2.1",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/user-event": "^13.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "bootstrap": "^5.1.3",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "deploy": "^1.0.3",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.14.1",
     "framer-motion": "^6.3.11",
+    "handlebars": "^4.7.7",
     "helmet": "^5.1.0",
+    "inquirer": "^8.2.4",
+    "jest": "^27.5.1",
+    "jest-cli": "^27.5.1",
+    "lodash": "^4.17.21",
+    "mathjs": "^10.6.1",
+    "matrix.node": "^4.0.2",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "native-base": "^3.4.6",
+    "next": "^12.1.6",
+    "nodemon": "^2.0.16",
+    "passport": "^0.5.3",
+    "passport-http": "^0.3.0",
+    "passport-local": "^1.0.0",
+    "plug-n-play": "^3.1.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
-    "react-scripts": "^5.0.1",
+    "react-native-safe-area-context": "^4.3.1",
+    "react-native-svg": "^12.3.0",
+    "react-native-web": "^0.18.0",
     "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start, BROWSER=none",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,9 +78,5 @@
   "devDependencies": {
     "@testing-library/react": "^13.3.0"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "MIT"
+  "keywords": []
 }
